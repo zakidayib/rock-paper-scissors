@@ -1,9 +1,10 @@
-## Tip Calculator Part I
+## Find the largest of three numbers
 
-Aisha wants to build a very simple tip calculator for whenever she goes eating in a restaurant. In her country, it's usual to tip 15% if the bill value is between 50 and 300. If the value is different, the tip is 20%.
+Using if statements you need to find the largest number between
+three numbers.
 
 ##### Your Task 😃:
-1. Calculate the tip, depending on the bill value. Create a variable called `bill` for this
-2. Print a string to the console containing the bill value, the tip, and the final value (bill + tip). Example: *'The bill was 275, the tip was 41.25, and the total value 316.25'*
+1. Create 3 variables and in each variable give it a number of your choice
+2. Create an if statement that determines which of the three numbers is the largest and console log this sentence*'The largest number out of the three numbers is X'*
 
 Good Luck 😀
