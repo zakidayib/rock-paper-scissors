@@ -1,10 +1,12 @@
-## Find the largest of two numbers
+## Rock paper scissors
 
-Using if statements you need to find the largest number between
-two numbers.
+A simple rock paper scissors exercise
 
 ##### Your Task 😃:
-1. Create 2 variables and in each variable give it a number of your choice
-2. Create an if statement that determines which of the two numbers is the largest and console log this sentence*'The largest number out of the two numbers is X'*
+Write a function called `playGame` that takes two parameters, `player1` and `player2`, representing the choices of two players in a game of rock, paper, scissors. The function should return a string indicating the winner of the game, or "tie" if the players chose the same option. Use logical operators to check the possible outcomes of the game.
+
+#### Example
+playGame("rock", "paper"); // should return "player2 wins"
+playGame("scissors", "scissors"); // should return "tie"
 
 Good Luck 😀
